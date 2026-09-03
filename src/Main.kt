@@ -423,6 +423,7 @@ class Dog100 : Animal100() {
 }
 
 class Cat100 : Animal100()
+class test99 : Animal100() {}
 
 
 class Calculator2 {
