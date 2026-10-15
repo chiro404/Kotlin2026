@@ -1358,4 +1358,6 @@ class BankAccount(val owner: String, var balance: Double) {
     }
 
 
+    fun test(){
+    }
 }
